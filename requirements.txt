@@ -1,0 +1,3 @@
+flask
+glunicorn
+google-generativeai
